@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chambiks
 - 👀 I’m interested in games and football
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on work
 - 📫 How to reach me ...
 
 <!---
