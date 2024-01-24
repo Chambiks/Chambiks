@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chambiks
 - 👀 I’m interested in games and football
 - 🌱 I’m currently learning java script
-- 📫 How to reach me ...
+- 📫 How to reach me  [facebook](https://www.facebook.com/profile.php?id=100093286866118)
 - You can ask me about java script
 
 <!---
