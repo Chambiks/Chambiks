@@ -2,6 +2,7 @@
 - 👀 I’m interested in games and football
 - 🌱 I’m currently learning java script
 - 📫 How to reach me  [facebook](https://www.facebook.com/profile.php?id=100093286866118)
+- Follow  me )
 
 <!---
 Chambiks/Chambiks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
